@@ -1,7 +1,5 @@
 # Weather-Journal App Project
 
-## Author: Mohamed Ahmed Mohamed Sayed
-
 # Content
 
 ## Overview
@@ -21,5 +19,5 @@ This project requires you to create an asynchronous web app that uses Web API an
 ## Technologies Used:
 1.HTML5
 2.CSS3
-3.ES6
+3.ES6 (JavaScript)
 4.Node & Express
